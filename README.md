@@ -25,3 +25,11 @@
 
 ## 제출 방법
 - README 파일에 도커를 띄운 사진을 첨부한 후 PR을 올려주세요!
+
+## 실행 결과
+## 도커 컨테이너
+![docker ps -a](https://github.com/user-attachments/assets/7fb0db42-9b86-4876-add9-87045b43ca72)
+
+### 2. API 테스트 결과 (Postman)
+- Todo 생성 API 요청 및 응답
+![todo]<https://github.com/user-attachments/assets/f04bd86e-1d02-4228-b771-cbac76d2c9ed>
